@@ -349,6 +349,16 @@ ACME_CONTACT=
 # root certificates can be placed for validation under mailcow-dockerized/data/web/inc/lib/WebAuthn/rootCertificates
 WEBAUTHN_ONLY_TRUSTED_VENDORS=n
 
+# lewd-tech HAProxy setup
+IMAP_PORT_HAPROXY=10143
+IMAPS_PORT_HAPROXY=10993
+POP_PORT_HAPROXY=10110
+POPS_PORT_HAPROXY=10995
+SIEVE_PORT_HAPROXY=14190
+SMTP_PORT_HAPROXY=10025
+SMTPS_PORT_HAPROXY=10465
+SUBMISSION_PORT_HAPROXY=10587
+
 EOF
 
 mkdir -p data/assets/ssl

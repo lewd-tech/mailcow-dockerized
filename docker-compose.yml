@@ -215,7 +215,7 @@ services:
             - sogo
 
     dovecot-mailcow:
-      image: cr.erisa.uk/dovecot-mailcow:1.17
+      build: data/Dockerfiles/dovecot
       depends_on:
         - mysql-mailcow
       dns:

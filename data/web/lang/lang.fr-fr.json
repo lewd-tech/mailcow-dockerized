@@ -26,7 +26,9 @@
         "syncjobs": "Tâches de synchronisation",
         "tls_policy": "Police TLS",
         "unlimited_quota": "Quota illimité pour les boites de courriel",
-        "domain_desc": "Modifier la description du domaine"
+        "domain_desc": "Modifier la description du domaine",
+        "domain_relayhost": "Changer le relais pour un domaine",
+        "mailbox_relayhost": "Changer le relais d’une boîte de réception"
     },
     "add": {
         "activate_filter_warn": "Tous les autres filtres seront désactivés, quand activé est coché.",
@@ -103,7 +105,8 @@
         "username": "Nom d'utilisateur",
         "validate": "Valider",
         "validation_success": "Validation réussie",
-        "bcc_dest_format": "La destination Cci doit être une seule adresse e-mail valide.<br>Si vous avez besoin d'envoyer une copie à plusieurs adresses, créez un alias et utilisez-le ici."
+        "bcc_dest_format": "La destination Cci doit être une seule adresse e-mail valide.<br>Si vous avez besoin d'envoyer une copie à plusieurs adresses, créez un alias et utilisez-le ici.",
+        "tags": "Etiquettes"
     },
     "admin": {
         "access": "Accès",
@@ -316,7 +319,9 @@
         "oauth2_add_client": "Ajouter un client OAuth2",
         "password_policy": "Politique de mots de passe",
         "admins": "Administrateurs",
-        "api_read_only": "Accès lecture-seule"
+        "api_read_only": "Accès lecture-seule",
+        "password_policy_lowerupper": "Doit contenir des caractères minuscules et majuscules",
+        "password_policy_numbers": "Doit contenir au moins un chiffre"
     },
     "danger": {
         "access_denied": "Accès refusé ou données de formulaire non valides",
@@ -827,7 +832,6 @@
         "toggle_all": "Tout basculer"
     },
     "queue": {
-        "queue_deliver_mail": "Délivrer",
         "queue_manager": "Gestion de la file d'attente"
     },
     "start": {

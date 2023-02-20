@@ -106,7 +106,8 @@
         "username": "Používateľské meno",
         "validate": "Overiť",
         "validation_success": "Úspešne overené",
-        "app_passwd_protocols": "Povolené protokoly k heslu aplikácie"
+        "app_passwd_protocols": "Povolené protokoly k heslu aplikácie",
+        "tags": "Štítky"
     },
     "admin": {
         "access": "Prístup",
@@ -895,7 +896,6 @@
         "type": "Typ"
     },
     "queue": {
-        "queue_deliver_mail": "Doručiť",
         "queue_manager": "Správca fronty"
     },
     "ratelimit": {

@@ -217,6 +217,7 @@ services:
 
     dovecot-mailcow:
       build: data/Dockerfiles/dovecot
+      image: mailcow/dovecot:1.23
       depends_on:
         - mysql-mailcow
       dns:

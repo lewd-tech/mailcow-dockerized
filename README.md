@@ -13,7 +13,7 @@ Or just spread the word: moo.
 
 ## Info, documentation and support
 
-Please see [the official documentation](https://mailcow.github.io/mailcow-dockerized-docs/) for installation and support instructions. 🐄
+Please see [the official documentation](https://docs.mailcow.email/) for installation and support instructions. 🐄
 
 🐛 **If you found a critical security issue, please mail us to [info at servercow.de](mailto:info@servercow.de).**
 
@@ -25,7 +25,7 @@ Please see [the official documentation](https://mailcow.github.io/mailcow-docker
 
 [Telegram mailcow Off-Topic channel](https://t.me/mailcowOfftopic)
 
-[Official Twitter Account](https://twitter.com/mailcow_email)
+[Official 𝕏 (Twitter) Account](https://twitter.com/mailcow_email)
 
 Telegram desktop clients are available for [multiple platforms](https://desktop.telegram.org). You can search the groups history for keywords.
 
